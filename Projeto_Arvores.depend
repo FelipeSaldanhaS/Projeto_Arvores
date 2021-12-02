@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1626740327 source:c:\users\fefes\documents\projetosc\projeto_arvores\projeto_arvores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"Projeto_Arvores.h"
+
+1626739260 c:\users\fefes\documents\projetosc\projeto_arvores\projeto_arvores.h
+
+1626747467 source:c:\users\fefes\documents\projetosc\projeto_arvores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<sys/time.h>
+	<time.h>
+	"Projeto_Arvores.h"
+
